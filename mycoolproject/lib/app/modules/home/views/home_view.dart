@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'package:get/get.dart';
+import 'package:mycoolproject/app/modules/sliverdemo/members_model.dart';
 
 import '../../../data/localdata.dart';
 import '../controllers/home_controller.dart';

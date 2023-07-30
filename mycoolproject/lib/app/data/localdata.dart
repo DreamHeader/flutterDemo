@@ -1,5 +1,5 @@
 List<String> localhomeList = [
-  "Sliver学习",
+  "Flutter",
   "ListView",
   "GridView",
   "learnSliver",
