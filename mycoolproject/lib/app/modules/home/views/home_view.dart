@@ -59,6 +59,12 @@ class _HomeListViewState extends State<HomeListView> {
           if (index == 1) {
             Get.toNamed("/listview");
           }
+          if (index == 2) {
+            Get.toNamed("/gridviewdemo");
+          }
+          if (index == 3) {
+            Get.toNamed("/sliverdemo");
+          }
         },
         child: Dismissible(
             background: Container(
